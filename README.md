@@ -6,7 +6,7 @@ _Frontend version_: Argon Dashboard v1.2.0. More info at https://www.creative-ti
 
 _Vue version_: Vue Argon Dashboard v1.2.2. More info at https://www.creative-tim.com/product/vue-argon-dashboard-pro
 
-![Product Image](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-argon-dashboard-laravel-pro/intro.gif)
+![Product Image](https://s3.amazonaws.com/creativetim_bucket/products/353/original/opt_adp_vue_laravel_thumbnail.jpg)
 
 What if you could go from frontend to fullstack in an instant when building your app? We partnered with [UPDIVISION](https://updivision.com) to bring you Vue Argon Dashboard PRO Laravel , the ultimate fullstack resource. Vue Argon Dashboard PRO Laravel comes not only with a huge number of UI components and a Vue Argon frontend, but also with an API-powered Laravel backend.
 
