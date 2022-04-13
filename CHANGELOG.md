@@ -18,3 +18,6 @@ All notable changes to `Vue Argon Dashboard PRO Laravel`  will be documented in 
 
 ## Version 1.0.1
 Compatibility with node.js v16.x LTS
+
+## Version 1.0.2
+Update to Laravel 9.x
