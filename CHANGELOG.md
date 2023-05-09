@@ -3,6 +3,7 @@
 All notable changes to `Vue Argon Dashboard PRO Laravel`  will be documented in this file.
 
 ## Version 2.0.0
+- Vue Argon 2 Dashboard PRO
 - Bootstrap5
 - Update to Vue3
 - Updates to the CRUD components
